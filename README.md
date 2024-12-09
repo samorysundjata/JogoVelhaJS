@@ -23,7 +23,7 @@ Para instalar e executar o jogo localmente, siga os passos abaixo:
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/yourusername/JogoVelhaJS.git
+    git clone https://github.com/samorysundjata/JogoVelhaJS.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
