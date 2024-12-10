@@ -1,0 +1,10 @@
+@startuml GameContext
+!includeurl https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Context.puml
+
+Person(usuario, "Usuário", "Usuário que joga o jogo da velha")
+System(sistemaJogo, "Sistema de Jogo da Velha", "Sistema que joga o jogo da velha")
+
+Rel(usuario, sistemaJogo, "Joga")
+Rel(sistemaJogo, usuario, "Joga o jogo")
+
+@enduml

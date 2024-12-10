@@ -17,6 +17,10 @@ Este é um jogo da velha (tic-tac-toe) desenvolvido em JavaScript. O objetivo do
 3. Dois jogadores se alternam para marcar os espaços no tabuleiro com "X" ou "O".
 4. O jogo verifica automaticamente se há um vencedor ou se o jogo terminou em empate.
 
+## Diagramas da Aplicação
+
+![Diagrama da Aplicação](out/docs/Context/GameContext.png)
+
 ## Instalação
 
 Para instalar e executar o jogo localmente, siga os passos abaixo:
